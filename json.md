@@ -1,5 +1,6 @@
 # JSON (JavaScript Object Notation)
 [위키백과](https://ko.wikipedia.org/wiki/JSON)
+
 속성-값 쌍으로 이루어진 데이터 오브젝트를 전달하기 위해 인간이 읽을 수 있는 텍스트를 사용하는 개방형 표준 포맷이다.
 자바스크립트로부터 파생되었지만 언어 독립형 데이터 포맷으로 프로그래밍 언어나 플랫폼에 독립적이다.
 
